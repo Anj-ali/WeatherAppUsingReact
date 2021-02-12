@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Anj-ali/WeatherAppUsingReact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Anj-ali/WeatherAppUsingReact/static/js/main.875579f2.chunk.js",
+    "main.js.map": "/Anj-ali/WeatherAppUsingReact/static/js/main.875579f2.chunk.js.map",
+    "runtime-main.js": "/Anj-ali/WeatherAppUsingReact/static/js/runtime-main.9bdc9c92.js",
+    "runtime-main.js.map": "/Anj-ali/WeatherAppUsingReact/static/js/runtime-main.9bdc9c92.js.map",
+    "static/css/2.150d169a.chunk.css": "/Anj-ali/WeatherAppUsingReact/static/css/2.150d169a.chunk.css",
+    "static/js/2.2d4d21ff.chunk.js": "/Anj-ali/WeatherAppUsingReact/static/js/2.2d4d21ff.chunk.js",
+    "static/js/2.2d4d21ff.chunk.js.map": "/Anj-ali/WeatherAppUsingReact/static/js/2.2d4d21ff.chunk.js.map",
+    "static/js/3.25f85c19.chunk.js": "/Anj-ali/WeatherAppUsingReact/static/js/3.25f85c19.chunk.js",
+    "static/js/3.25f85c19.chunk.js.map": "/Anj-ali/WeatherAppUsingReact/static/js/3.25f85c19.chunk.js.map",
+    "index.html": "/Anj-ali/WeatherAppUsingReact/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Anj-ali/WeatherAppUsingReact/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Anj-ali/WeatherAppUsingReact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2d4d21ff.chunk.js.LICENSE.txt": "/Anj-ali/WeatherAppUsingReact/static/js/2.2d4d21ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bdc9c92.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2d4d21ff.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.875579f2.chunk.js"
+  ]
+}
